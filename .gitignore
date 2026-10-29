@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Linux Kernel build files
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.symvers
+modules.order
+.*.cmd
+
+# Temporary files
+*.log
+*.tmp
+*~
+
+# Editor
+.vscode/
+.idea/
+
